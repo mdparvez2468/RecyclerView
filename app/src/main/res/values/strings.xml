@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Assignment5_CPCandroidCourse</string>
+    <string-array name="phones">
+        <item>Samsung Galaxy M21</item>
+        <item>Samsung Galaxy A71</item>
+        <item>Samsung Galaxy M51</item>
+        <item>Samsung Galaxy Note 20</item>
+        <item>Samsung Galaxy A12</item>
+        <item>iPhone 12 Pro</item>
+        <item>Nokia 2.2</item>
+
+
+    </string-array>
+
+    <string-array name="prices">
+
+        <item>৳ 14999.00</item>
+        <item>৳ 31499.00</item>
+        <item>৳ 32399.00</item>
+        <item>৳ 121499.00</item>
+        <item>৳ 13499.00</item>
+        <item>৳ 61499.00</item>
+        <item>৳ 14999.00</item>
+    </string-array>
+    <string-array name="phonesdetails">
+        <item>Samsung Galaxy M21 Smartphone - 6.4 Inch - 4GB Ram - 64GB Rom - 48 MP Camera - 6000 mAh Battery</item>
+        <item>Samsung Galaxy A71 Smartphone - 6.7” FHD - 8GB RAM - 128GB ROM - 64MP Camera - White</item>
+        <item>Samsung Galaxy M51 Smartphone - 6.7” Full HD - 8GB RAM - 128GB ROM - 64MP Camera - Black</item>
+        <item>Samsung Galaxy Note 20 Ultra 5G Smartphone - 6.9” Dynamic AMOLED 2X - 12GB RAM - 256GB ROM - 108MP Camera</item>
+        <item>Samsung Galaxy A12 Smartphone - 6.5” HD+ TFT - 4GB RAM - 64GB ROM - 48MP Camera</item>
+        <item>Apple iPhone 12 Pro Smart Phone - 6.1" - 6GB RAM - 128GB ROM - Quad 12 MP - Space Gray</item>
+        <item>Nokia 2.2 - 5.71" - 3GB RAM - 32GB ROM - 13/5 MP - Black</item>
+
+    </string-array>
+</resources>
